@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @antoniopgusmao
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Antônio Gusmão
+- 👀 I’m Developer Programmer FullStack
+- 🌱 I’m currently learning Machine Learning, Flutter, Go and Rust.
+- 💞️ I’m looking to collaborate on Course Formation
+- 📫 How to reach me, insta @antoniopgusmao
 
 <!---
 antoniopgusmao/antoniopgusmao is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
